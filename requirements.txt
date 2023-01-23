@@ -4,3 +4,4 @@ pymysql
 pymssql<3.0
 cx_Oracle<=7.3.0
 fdb
+psycopg2-binary
