@@ -1,6 +1,6 @@
 ---
-ref: sql
-name: sql
+ref: sql_infracode
+name: sql_infracode
 description: StackStorm Integration Pack for SQL Databases (Postgres, MySQL, etc)
 keywords:
   - Postgres
